@@ -1,0 +1,7 @@
+{
+  "name": "taxiFronted",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
